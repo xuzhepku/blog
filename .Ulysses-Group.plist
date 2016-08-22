@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>学习方法论</string>
+		<string>2016</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>2016</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493491653.051956</real>
+				<key>version</key>
+				<dict>
+					<key>fad5dc09f646a8da10ef7c9e66c730108a258bf5db650dc10000c5e41217ccf5</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>学习方法论</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>493491694.13667399</real>
+				<key>lastModification</key>
+				<real>493491694.13667399</real>
+				<key>version</key>
+				<dict>
+					<key>fad5dc09f646a8da10ef7c9e66c730108a258bf5db650dc10000c5e41217ccf5</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>fad5dc09f646a8da10ef7c9e66c730108a258bf5db650dc10000c5e41217ccf5</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
